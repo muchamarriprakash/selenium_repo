@@ -26,6 +26,7 @@ public class CrossBrowserTesting
 			driver = new ChromeDriver();
 		}
 		driver.get("https://demowebshop.tricentis.com/");
+		driver.get("https://demowebshop.tricentis.com/");
 	}
 
 }
